@@ -18,8 +18,8 @@ body {
 }
 
 .expired {
-  color: red;
-  font-size: 2em;
+  color: white;
+  font-size: 7em;
   text-transform: uppercase;
   font-weight: bold;
 }
