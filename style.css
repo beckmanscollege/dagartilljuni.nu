@@ -60,3 +60,33 @@ body, html {
 .countdown span {
   display: block;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+.left-link a,
+.right-link a {
+  text-decoration: none;
+  color: white;
+}
+
+.left-link {
+  margin-left: 10px;
+}
+
+.right-link {
+  margin-right: 10px;
+}
+
+.left-link a:hover,
+.right-link a:hover {
+  color: midnightblue;
+}
