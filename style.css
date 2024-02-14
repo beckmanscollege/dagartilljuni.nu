@@ -10,7 +10,7 @@ body {
 }
 
 .countdown {
-  font-size: 7em;
+  font-size: 8em;
   text-align: center;
   background-color:;
   border-radius:;
@@ -19,7 +19,7 @@ body {
 
 .expired {
   color: white;
-  font-size: 7em;
+  font-size: 8em;
   text-transform: uppercase;
   font-weight: bold;
 }
